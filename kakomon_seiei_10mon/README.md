@@ -57,5 +57,7 @@ sort()とreverse()
 
 ・後ろから解く
 
+substring()
+
 ### [問10(abc086 C問題)](https://atcoder.jp/contests/abc086/tasks/arc089_a)
 ・パリティ
