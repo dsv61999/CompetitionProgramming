@@ -1,0 +1,1 @@
+# [例題1](https://atcoder.jp/contests/abc140/tasks/abc140_c)
